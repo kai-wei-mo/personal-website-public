@@ -7,10 +7,10 @@
 # Ignore the node_modules directory
 node_modules/
 
-# Ignore compiled CSS files
-*.css.map
-*.min.css
+# # Ignore compiled CSS files
+# *.css.map
+# *.min.css
 
-# Ignore compiled HTML files
-*.html.map
-*.min.html
+# # Ignore compiled HTML files
+# *.html.map
+# *.min.html
