@@ -1,0 +1,16 @@
+# Ignore all files with a .DS_Store extension
+**/.DS_Store
+
+# Ignore all directories named .sass-cache
+.sass-cache/
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore compiled CSS files
+*.css.map
+*.min.css
+
+# Ignore compiled HTML files
+*.html.map
+*.min.html
